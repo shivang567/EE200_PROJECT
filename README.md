@@ -39,14 +39,7 @@ its performance under various real-world distortions.
 
 ## Live App
 
-🔗 [Deployed Streamlit app](<<INSERT DEPLOYED STREAMLIT APP URL HERE>>)
-
-## Running Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+🔗 [Deployed Streamlit app](<<http://localhost:8501/>>)
 
 ## Evaluation
 

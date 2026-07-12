@@ -39,7 +39,7 @@ its performance under various real-world distortions.
 
 ## Live App
 
-🔗 [Deployed Streamlit app](<<http://localhost:8501/>>)
+🔗 [Deployed Streamlit app](<<https://audiofingerprintingshivang.streamlit.app/>>)
 
 ## Evaluation
 

@@ -6,3 +6,4 @@ pandas>=1.5.0
 plotly>=5.14.0
 soundfile>=0.12.1
 audioread>=3.0.0
+matplotlib>=3.6.0
